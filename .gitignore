@@ -1,4 +1,5 @@
-
+target/
+.gitignore
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -11,6 +12,7 @@
 *.iws
 *.iml
 *.ipr
+.target/
 
 ### Eclipse ###
 .apt_generated
